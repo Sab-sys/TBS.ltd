@@ -31,7 +31,7 @@ html {
 }
 /* SECTION ZERO = LANDING VIEW */
 #sec-0{
-    background: linear-gradient(rgba(120, 17, 17, 0.8),rgba(0,0,0,0.8)), url(../Images/banner.jpg) no-repeat top center/cover;
+    background: linear-gradient(rgba(120, 17, 17, 0.8),rgba(0,0,0,0.8)), url(../banner.jpg) no-repeat top center/cover;
 }
 #sec-0 header.top {
     background-color: var(--haccent);
@@ -279,7 +279,7 @@ html {
 }
 
 #sec-2{
-    background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0,0,0,0.6)), url(../Images/bg4.jpg) no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0,0,0,0.6)), url(../bg4.jpg) no-repeat center center/cover;
     text-align: center;
     padding: 3rem 0px 1.8rem;
 }
@@ -397,7 +397,7 @@ text-shadow:1px 1px #73757E;
 }
 /* SECTION 4 */
 #sec-4{
-    background: linear-gradient(rgba(78, 76, 70, 0.8),rgba(78, 76, 70, 0.8)), url(../Images/bg2.jpg) no-repeat center center/cover;
+    background: linear-gradient(rgba(78, 76, 70, 0.8),rgba(78, 76, 70, 0.8)), url(../bg2.jpg) no-repeat center center/cover;
     text-align: center;
     padding-top: 2rem;
     padding-bottom: 4rem;
@@ -581,7 +581,7 @@ text-shadow:1px 1px #73757E;
 }
 /* SECTION SIX */
 #sec-6{
-    background: linear-gradient(rgba(0, 0, 0,0.9),rgba(0, 0, 0,0.9)), url(../Images/rascacielos-nueva-york.jpg) no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0,0.9),rgba(0, 0, 0,0.9)), url(../rascacielos-nueva-york.jpg) no-repeat center center/cover;
     padding-top: 2rem;
     padding-bottom: 4rem;
     font-size: 0.8rem;
